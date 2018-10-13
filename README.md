@@ -5,7 +5,7 @@ The purpose of the perception system is to ensure the robots avoids a human in a
 1) Which side is safer to avoid a human (“ ​ left” ​  or “ ​ right” ​ )? 
 2) What is the clearance for avoidance maneuver? Clearance is defined as the smallest distance between a human and the obstacle closest to him (a wall or a shelf).
 
-![RGB image](./rgb.png?raw=true ("RGB image")) ![depth image](./depth.png?raw=true "Depth image("robot observation"))
+![RGB image](./rgb.png?raw=true ("RGB image")) ![depth image](./depth.png?raw=true ("Depth imag(robot observation)"))
 
 I did this task in three steps:
 
