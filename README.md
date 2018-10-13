@@ -1,10 +1,11 @@
 
 
 The purpose of the perception system is to ensure the robots avoids a human in a corridor. Given an image from a depth camera, the perception system will output two values: 
-![RGB image](https://raw.githubusercontent.com/l5shi/human-detect-in-depth-image/rgb.png)
 
 1) Which side is safer to avoid a human (“ ​ left” ​  or “ ​ right” ​ )? 
 2) What is the clearance for avoidance maneuver? Clearance is defined as the smallest distance between a human and the obstacle closest to him (a wall or a shelf).
+![RGB image](./rgb.png)
+
 ![depth image](./depth.png)
 
 I did this task in three steps:
