@@ -1,6 +1,5 @@
 
-
-The purpose of the perception system is to ensure the robots avoids a human in a corridor. Given an image from a depth camera, the perception system will output two values: 
+The purpose of this project is to find a distance between a human and a wall in a corridor using depth camera observations. Here is an example of a depth image (right) received from a depth camera mounted on a robot. The darker the pixel the closer it is; black corresponds to 0 meters and white corresponds to 5 meters. Just for reference, the corresponding RGB image is shown on the left.
 
 1) Which side is safer to avoid a human (“ ​ left” ​  or “ ​ right” ​ )? 
 2) What is the clearance for avoidance maneuver? Clearance is defined as the smallest distance between a human and the obstacle closest to him (a wall or a shelf).
