@@ -1,4 +1,4 @@
-[![](https://travis-ci.org/l5shi/Human-Detection-In-Depth-Image.svg?branch=master)](https://travis-ci.org/l5shi/Human-Detection-In-Depth-Image)
+https://img.shields.io/cocoapods/dt/AFNetworking.svg
 
 The purpose of this project is to find a distance between a human and a wall in a corridor using depth camera observations. Here is an example of a depth image (right) received from a depth camera mounted on a robot. The darker the pixel the closer it is; black corresponds to 0 meters and white corresponds to 5 meters. Just for reference, the corresponding RGB image is shown on the left.
 
