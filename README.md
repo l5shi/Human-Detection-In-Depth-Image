@@ -1,6 +1,6 @@
 ![](https://img.shields.io/badge/language-python-orange.svg)
 ![](https://img.shields.io/badge/Price-FREE-green.svg)
-[![](https://img.shields.io/badge/Donate-支付宝|微信|Venmo-blue.svg)](https://github.com/l5shi/__Overview__/tree/master/donate)
+[![](https://img.shields.io/badge/Donate-支付宝|微信|Venmo-blue.svg)](https://github.com/l5shi/__Overview__/blob/master/thanks/README.md)
 
 The purpose of this project is to find a distance between a human and a wall in a corridor using depth camera observations. Here is an example of a depth image (right) received from a depth camera mounted on a robot. The darker the pixel the closer it is; black corresponds to 0 meters and white corresponds to 5 meters. Just for reference, the corresponding RGB image is shown on the left.
 
