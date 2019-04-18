@@ -16,4 +16,3 @@ I did this task in three steps:
 
 This task is relatively easy compared with real life cases since the detection area and detection distance are constrained. For more complicated cases, such as human can walk within a larger area, longer distance, and behind obstacles, detection will be very hard if we still use simple method above. In such case, we may need more data to train a CNN model in order to do the detection and train a linear regression model to estimate the clearance distance.
 
-[![](https://img.shields.io/badge/Donate-支付宝|微信|Venmo-blue.svg)](https://github.com/l5shi/__Overview__/blob/master/thanks/README.md)
